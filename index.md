@@ -1,37 +1,16 @@
-# Welcome to Khashayar Ehteshami Page
+# Khashayar Ehteshami
 
 My name is Khashayar Ehteshami. I am a Master's student at Sharif University of Technology International Campus, Kish Island.
 
 My main research interests are Deep Learning, Machine Learning, and Natural Language Processing.
 
-### Markdown
+### Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KhashayarEhteshami/KhashayarEhteshami.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Sentiment Analysis with Pytorch](https://github.com/KhashayarEhteshami/Sentimentanalysis)
+>*Sentiment analysis with the help of LSTM on IMDB Dataset*
+[CNN Image Classification with Keras](https://github.com/KhashayarEhteshami/CNN-for-image-classification)
+>*Multiclass Classification on a Custom Dataset* 
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+In case of any Interest or Question you can send me an [Email](Khashayarehteshamy@gmail.com) 
