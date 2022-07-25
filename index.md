@@ -14,4 +14,4 @@ My main research interests are Deep Learning, Machine Learning, and Natural Lang
 
 ### Support or Contact
 
-In case of any Interest or Question you can send me an [Email](Khashayarehteshamy@gmail.com) 
+In case of any Interest or Question you can contact me via [Email](Khashayarehteshamy@gmail.com) 
